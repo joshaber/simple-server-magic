@@ -1,3 +1,5 @@
 {
-  "postStartCommand": "bash .devcontainer/post-start.sh"
+  "extensions": [
+    "/workspaces/simple-server/.devcontainer/codespaces-liftoff-extension.vsix"
+  ]
 }
