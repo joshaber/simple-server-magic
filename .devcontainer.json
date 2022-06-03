@@ -1,5 +1,3 @@
 {
-  "extensions": [
-    "https://joshabertest.blob.core.windows.net/dump/codespaces-liftoff-extension-0.0.1.vsix"
-  ]
+  "postCreateCommand": "curl https://joshabertest.blob.core.windows.net/dump/codespaces-liftoff-extension.vsix -o /tmp/codespaces-liftoff-extension.vsix && code --install-extension /tmp/codespaces-liftoff-extension.vsix"
 }
