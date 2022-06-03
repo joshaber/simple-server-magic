@@ -1,3 +1,5 @@
 {
-  "extensions": "https://joshabertest.blob.core.windows.net/dump/codespaces-liftoff-extension-0.0.1.vsix"
+  "extensions": [
+    "https://joshabertest.blob.core.windows.net/dump/codespaces-liftoff-extension-0.0.1.vsix"
+  ]
 }
