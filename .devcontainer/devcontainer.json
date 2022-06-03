@@ -1,5 +1,5 @@
 {
   "extensions": [
-    ".devcontainer/codespaces-liftoff.vsix"
+    "/workspaces/simple-server-private/.devcontainer/codespaces-liftoff.vsix"
   ]
 }
