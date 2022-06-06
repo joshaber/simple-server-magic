@@ -3,9 +3,11 @@
     "/workspaces/simple-server-private/.devcontainer/codespaces-liftoff.vsix"
   ],
   "codespaces": {
-    "defaultFile": "index.js",
-    "startCommand": "yarn start",
-    "previewPort": 3000,
-    "previewDelay:": 6000
+    "liftoff": {
+      "defaultFile": "index.js",
+      "startCommand": "yarn start",
+      "previewPort": 3000,
+      "previewDelay:": 6000
+    }
   }
 }
