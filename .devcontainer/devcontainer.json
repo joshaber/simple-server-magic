@@ -1,6 +1,7 @@
 {
   "extensions": [
-    "/workspaces/simple-server-private/.devcontainer/codespaces-liftoff.vsix"
+    "/workspaces/simple-server-magic/.devcontainer/codespaces-liftoff.vsix",
+    "/workspaces/simple-server-magic/.devcontainer/codespaces.vsix"
   ],
   "codespaces": {
     "liftoff": {
