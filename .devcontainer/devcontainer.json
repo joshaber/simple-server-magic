@@ -3,7 +3,7 @@
     "gh-gh-dogfooding.codespaces-zero"
   ],
   "codespaces": {
-    "liftoff": {
+    "zero": {
       "defaultFile": "index.js",
       "startCommand": "yarn start",
       "previewPort": 3000,
